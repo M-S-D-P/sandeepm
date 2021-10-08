@@ -5,8 +5,8 @@
 This is a general notes or gist of all the below projects or products I worked and contributed over the course of my career. You may not reuse, republish, or reprint such content without my written consent. All information posted is merely for educational and informational purposes. The notes shared here is my own understanding of the product mostly from technical perspective & areas I have covered. Should you decide to act upon any information on this website, you do so at your own risk. While the information on this website is from my time & work I have contributed on various products, I cannot guarantee that there are no mistakes or errors. I reserve the right to change this policy at any given time, of which you will be promptly updated. If you want to make sure that you are up to date with the latest changes, I advise you to frequently visit this page.
 
 
-### Zaggle Propel, India 
-https://zagglepropel.com | Role: Project Manager /  Lead Software Developer  | Team Size: 5 
+### Zaggle Propel, India[https://zagglepropel.com]
+Role: Project Manager /  Lead Software Developer  | Team Size: 5 
 
 It is a B2B product. This project aims to cater the needs of corporates to effectively manage the Rewards & Recognition system within their organisation. Corporates will be able to issue rewards in the form of gift cards running different types of programs that they can conduct within the platform. I have led the team to execute several sprints developing various core features like  reward generations, Metrics System, Events Module,  Programs management system along with other associated features. Provided client demos & have been part of onboarding clients & supporting the employees data migration between their ecosystem & the platform via webhooks, API’s & systems running on  LDAP protocol. 
 
