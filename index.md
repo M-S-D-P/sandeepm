@@ -6,16 +6,16 @@ This is a general note or gist of all the projects  I contributed to throughout 
 
 
 ### [Zaggle Propel](https://zagglepropel.com) / India
-Role: Project Manager /  Lead Software Developer  | Team Size: 5 
+Role: Project Manager / Lead Software Developer  | Team Size: 5 
 
 It is a B2B product. This project aims to cater the needs of corporates to effectively manage the Rewards & Recognition system within their organisation. Corporates will be able to issue rewards in the form of gift cards running different types of programs that they can conduct within the platform. I have led the team to execute several sprints developing various core features like  reward generations, Metrics System, Events Module,  Programs management system along with other associated features. Provided client demos & have been part of onboarding clients & supporting the employees data migration between their ecosystem & the platform via webhooks, API’s & systems running on  LDAP protocol. 
 
 ### [Zaggle Save](https://zagglesave.com)/ India 
-Role: Project Manager /  Lead Software Developer | Team Size: 3 
+Role: Project Manager / Lead Software Developer | Team Size: 3 
  
 This is an Expense Management solution offered to Corporates to enable its employees to track all the expenses and raise reimburse requests for any company expenses. A corporate will have full ability to issue Cards with different wallets such as fuel, food, expenses e.t.c. with balances which can be used by it’s employees for day to day purposes. I have led the project and implemented completely back-end API’s laying foundations for creating ZAGGLE SAVE web application & continued developing major features that communicate across several services associated and responsible for loading balances in a card which contains multiple wallets within itself. These cards are distributed to customers/corporates & and transactions are recorded from any POS terminals that are connected to VISA network. Several features in recording transactions & preparing reports on top of the customer transactions for clients are implemented guiding teams aimed at delivering quality solutions. 
 
-### [XBITS](https://xbits.io)/ Bulgaria 
+### [XBITS](https://xbits.io) / Bulgaria 
 Role: Project Manager / Sr. Lead Developer | Team Size: 1 
  
 xBits is aimed to be a World's Most Powerful and Secure cryptocurrency trading platform for leading Cryptocurrencies. This project involves in implementing a software based stock exchange platform for cryptocurrencies, working with various cryptocurrencies and their respective platform based tools, working with blockchain and other services to accommodate ability for users to perform withdrawals and deposits via different blockchains and via banks dealing with Fiat currencies. It is having many security features like omniauth-identity authentication system, two-factor authentication system, OTP authentication and many more to ensure that users are saved from several attacks.  
