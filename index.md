@@ -101,7 +101,7 @@ Job Portal Application enables users to find jobs which bring all the resources 
 ### [MYPROPERTY](https://myproperty.com.au/), AUSTRALIA 
 Role: Project Manager / Sr.Developer | Team Size: 5 
  
-This is an online hub for Rental business executives, landlords and tenants. The aim of the project is to help people to find best places to live in by making proper deals with landlords at the same time. Lot of structural and tactical design integration is achieved in this project to make sure we obey and practice proper standards in collecting and maintaining huge amounts of data along with responsive UI across all platforms. 
+It is a platform connecting Rental business executives, landlords, and tenants. The project aims to help people find the best places to live by making good deals with landlords simultaneously. Contributed to structural and tactical design integration to ensure we obey and practice proper standards in collecting and maintaining vast amounts of data and responsive UI across all platforms. I enjoyed working with the client, actively contributing to his vision of bringing a contract management system online. 
   
 ### UNITEDLAYER, USA 
 Role: Sr.Developer | Team Size: 2
