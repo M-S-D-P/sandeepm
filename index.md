@@ -106,38 +106,4 @@ https://unitedlayer.com/ | Role: Front End Lead Manager/Sr.Developer | Team Size
  
 Unitedlayer is a cloud computing solution. The idea is to develop a hybrid cloud computing solution by offering & combining various independent cloud platforms like AWS, AZURE, OPENSTACK and VMWARE. It provides a common platform for users allowing them to perform various tasks on various cloud platforms providing a hassle free management system. 
  
-With a team of 5 people on the front-end and 13 people on back-end, I have actively involved in development of the end-to-end integration of several features with Django application. I have successfully created a proper architecture for the front-end and enabled my team to adapt to the system design and helped them learn angular js simultaneously. I have actively coordinated with the back-end team and implemented required modules and created the entire presentation layer for the product.  
- 
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/M-S-D-P/sandeepm/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+With a team of 5 people on the front-end and 13 people on back-end, I have actively involved in development of the end-to-end integration of several features with Django application. I have successfully created a proper architecture for the front-end and enabled my team to adapt to the system design and helped them learn angular js simultaneously. I have actively coordinated with the back-end team and implemented required modules and created the entire presentation layer for the product. 
