@@ -5,12 +5,18 @@
 This is a general note or gist of all the projects  I contributed to throughout my time on the product. You may not reuse, republish, or reprint such content without my written consent, and please reach me out on [my email](malllela.sandeep@ymail.com). All information posted is merely for educational and informational purposes ONLY. The notes shared here are my understanding of the product, mainly from a technical perspective & areas I have covered during my time on the product. Should you decide to act upon any information on this website, you do so at your own risk. While the information on this website is from my time in the past & the work I have contributed to various products, I cannot guarantee that there are no mistakes or errors. I reserve the right to change this policy at any given time, of which you will be promptly updated. If you want to ensure that you are up to date with the latest changes, I advise you to visit this page frequently.
 
 
+### [LotVue](https://www.ecisolutions.com/products/lotvue/) / USA
+Role: Architect / Development Lead  | Team Size: 7
+
+Contributed in restructuring entire development team establishing SOPs, SDLC, Agile & Scrum processes increasing efficiency of the team. Invovled in architecting core features & lead development teams achiving goals. Worked in refining different areas improving business operations which are very criticial. Worked on scaling and created efficient solutions enhancing infrastructure availability, performance, increased visibility on various parts of the system.
+
+
 ### [Zaggle Propel](https://zagglepropel.com) / India
 Role: Project Manager / Lead Software Developer  | Team Size: 5 
 
 It is a B2B product. This project aims to cater to the needs of corporates to manage the Rewards & Recognition system within their organization. Corporates will be able to issue rewards in gift cards running different types of programs that they can conduct within the platform. I have led the team to execute several sprints developing various core features like reward generations, Metrics Systems, Events Module, Programs management system, and other associated components. Provided client demos & have been part of onboarding clients & supporting the employee's data migration between their ecosystem & the platform via webhooks, API's & systems running on LDAP protocol.
 
-### [Zaggle Save](https://zagglesave.com)/ India 
+### [Zaggle Save](https://zagglesave.com) / India 
 Role: Project Manager / Lead Software Developer | Team Size: 3 
  
 This product is an Expense Management solution offered to Corporates to enable their employees to track all the expenses and raise reimbursement requests for any company expenses. A corporate will have full ability to issue Cards with different wallets such as fuel, food, costs e.t.c. with balances that its employees can use for day-to-day purposes. I have led the project and implemented back-end APIs’s laying the foundations for creating a ZAGGLE SAVE web application from the existing platform & its components. Continued developing major features includes, Bulk User import system, Card Management system involving 3rd party API integrations & Card Loading system dealing with card balances & transactions, Reports module e.t.c
