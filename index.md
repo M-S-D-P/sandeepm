@@ -8,7 +8,7 @@ This is a general note or gist of all the projects  I contributed to throughout 
 ### [LotVue](https://www.ecisolutions.com/products/lotvue/) / USA
 Role: Architect / Development Lead  | Team Size: 7
 
-Contributed in restructuring entire development team establishing SOPs, SDLC, Agile & Scrum processes increasing efficiency of the team. Involved in architecting core features & lead development teams achiving goals. Worked in refining different areas improving business operations which are very criticial. Worked on scaling and created efficient solutions enhancing infrastructure availability, performance, increased visibility on various parts of the system.
+Contributed in restructuring entire development team establishing SOPs, SDLC, Agile & Scrum processes increasing efficiency of the team. Involved in design & development of core features & lead development teams achiving goals. Worked in refining different areas improving business operations which are very criticial. Worked on scaling and created efficient solutions enhancing infrastructure availability, performance, increased visibility on various parts of the system.
 
 
 ### [Zaggle Propel](https://zagglepropel.com) / India
