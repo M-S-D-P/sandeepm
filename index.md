@@ -29,8 +29,6 @@ This product is an Expense Management solution offered to Corporates to enable t
 Role: Project Manager / Sr. Lead Developer | Team Size: 1 
  
 xBits Cryptocurrency trading platform. This project involves implementing a software-based trading platform for cryptocurrencies.
- 
-The xBits Cryptocurrency trading platform project involved implementing a software-based trading platform for cryptocurrencies.
 
 ### Roles and Contributions
 Throughout my tenure on the project, I fulfilled various critical roles, including lead engineer, active developer, and manager. My contributions encompassed:
@@ -41,11 +39,13 @@ Throughout my tenure on the project, I fulfilled various critical roles, includi
 
 - Implementation of Remote Procedure Calls (RPC) and deep exploration into the blockchain ecosystem to meet specific client requirements.
 
-- Modification and enhancement of the Trading Platform, incorporating new features and robust security layers like KYC protocols.
+- Modifying and enhancing the Trading Platform, incorporating new features and robust security layers like KYC protocols.
 
 - Leading the implementation of real-time data analytics and visualization, notably focusing on OHLC data for comprehensive market analysis.
 
 - Serving as the primary liaison for the client, addressing and fulfilling project requirements promptly and efficiently.
+
+
 ### [SPACEHOPPER](https://www.spacehopper.com/) / USA 
 Role: Sr.Developer | Team Size: 12 
  
