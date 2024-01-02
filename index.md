@@ -1,4 +1,4 @@
-# Contributions
+# Projects
 
 ## Disclaimer
 
