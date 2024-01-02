@@ -2,7 +2,11 @@
 
 ## Disclaimer
 
-This is a general note or gist of all the projects  I contributed to throughout my time on the product. You may not reuse, republish, or reprint such content without my written consent, and please reach me out on [my email](malllela.sandeep@ymail.com). All information posted is merely for educational and informational purposes ONLY. The notes shared here are my understanding of the product, mainly from a technical perspective & areas I have covered during my time on the product. Should you decide to act upon any information on this website, you do so at your own risk. While the information on this website is from my time in the past & the work I have contributed to various products, I cannot guarantee that there are no mistakes or errors. I reserve the right to change this policy at any given time, of which you will be promptly updated. If you want to ensure that you are up to date with the latest changes, I advise you to visit this page frequently.
+This document serves as a summary of my involvement in numerous projects during my tenure with the product. The content presented here is confidential and should not be reused, republished, or distributed without my explicit written consent. Please get in touch with me via [my email](malllela.sandeep@ymail.com) for inquiries.
+
+All information shared is intended for educational and informational purposes only. The insights provided reflect my technical perspective and the specific areas I focused on while working on the product. Should you act upon any information contained herein, you do so at your discretion and risk.
+
+While the content is based on my past contributions to various products, I cannot guarantee its absolute accuracy or absence of errors. I keep the right to change this policy anytime, and any updates will be promptly communicated. I recommend visiting this page regularly to stay informed about the latest changes.
 
 
 ### [LotVue](https://www.ecisolutions.com/products/lotvue/) / USA
