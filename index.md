@@ -26,10 +26,22 @@ Role: Project Manager / Sr. Lead Developer | Team Size: 1
  
 xBits Cryptocurrency trading platform. This project involves implementing a software-based trading platform for cryptocurrencies.
  
-I have worked on this project and filled several roles like a lead engineer, active developer, and manager during my time on the project. I have coordinated with UI designers and Testing Engineers, simultaneously building various features into the system involving back-end and front-end. 
+The xBits Cryptocurrency trading platform project involved implementing a software-based trading platform for cryptocurrencies.
 
-I have successfully connected all the Wallets of all cryptocurrencies like Bitcoin, BitcoinCash, Ethereum to the Rails application. Established Remote procedure calls, learned about the blockchain ecosystem, and implemented different requirements for the client. I have also modified the entire Trading Platform and migrated it with new features and security layers like KYC, e.t.c. Along with implementing real-time data analytics & visualization aspects of OHLC data, one of the significant components in a trading platform determining the market's direction. I was the entire face of the project for the client for any requirement on the project.  
+### Roles and Contributions
+Throughout my tenure on the project, I fulfilled various critical roles, including lead engineer, active developer, and manager. My contributions encompassed:
 
+- Coordinating with UI designers and Testing Engineers, actively building diverse features into the system involving both back-end and front-end development.
+
+- Successful integration of cryptocurrency wallets (Bitcoin, BitcoinCash, Ethereum) into the Rails application, ensuring seamless functionality.
+
+- Implementation of Remote Procedure Calls (RPC) and deep exploration into the blockchain ecosystem to meet specific client requirements.
+
+- Modification and enhancement of the Trading Platform, incorporating new features and robust security layers like KYC protocols.
+
+- Leading the implementation of real-time data analytics and visualization, notably focusing on OHLC data for comprehensive market analysis.
+
+- Serving as the primary liaison for the client, addressing and fulfilling project requirements promptly and efficiently.
 ### [SPACEHOPPER](https://www.spacehopper.com/) / USA 
 Role: Sr.Developer | Team Size: 12 
  
