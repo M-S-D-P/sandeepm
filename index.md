@@ -46,6 +46,8 @@ Throughout my tenure on the project, I fulfilled various critical roles, includi
 - Serving as the primary liaison for the client, addressing and fulfilling project requirements promptly and efficiently.
 
 
+
+
 ### [SPACEHOPPER](https://www.spacehopper.com/) / USA 
 Role: Sr.Developer | Team Size: 12 
  
